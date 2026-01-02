@@ -1,0 +1,4 @@
+MODEL:
+  ARCH: resnext50_32x4d
+  PROJECTION:
+    EMB_DIM: 2048

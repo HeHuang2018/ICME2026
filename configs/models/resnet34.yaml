@@ -1,0 +1,4 @@
+MODEL:
+  ARCH: resnet34
+  PROJECTION:
+    EMB_DIM: 512

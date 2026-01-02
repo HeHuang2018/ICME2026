@@ -1,0 +1,4 @@
+MODEL:
+  ARCH: wide_resnet50_2
+  PROJECTION:
+    EMB_DIM: 2048

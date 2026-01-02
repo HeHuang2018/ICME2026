@@ -1,0 +1,17 @@
+OPTIM:
+  METHOD: "SGD"
+  STEPS: 1
+  BETA: 0.9
+  LR: 0.001
+  WD: 0.
+  MOMENTUM: 0.9
+
+ADAPTER:
+  NAME: AEA
+  AEA:
+    lamb1 : 1.0
+    lamb2 : 0.05      # Energy
+    lamb3 : 5.0      # Logit Cosine Similarity
+    decay_beta : -1
+    lcs_thr : 0.99
+    ss_ratio : 0.5

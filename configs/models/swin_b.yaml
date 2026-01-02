@@ -1,0 +1,4 @@
+MODEL:
+  ARCH: swin_b
+  PROJECTION:
+    EMB_DIM: 1024

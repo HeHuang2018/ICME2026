@@ -1,0 +1,18 @@
+
+CORRUPTION:
+  ORDER_NUM: 9
+  SEVERITY:
+  - 5
+  TYPE:
+    - xy_motion_blur
+    - iso_noise
+    - z_motion_blur
+    - near_focus
+    - low_light
+    - far_focus
+    - flash
+    - fog_3d
+    - bit_error
+    - color_quant
+    - h265_abr
+    - h265_crf
